@@ -1,0 +1,17 @@
+{
+    "appearance": {
+        "transparency": {
+            "enabled": true
+        }
+    },
+    "launcher": {
+        "enabled": true,
+        "showOnHover": false,
+        "useFuzzy": {
+            "apps": false
+        }
+    },
+    "sidebar": {
+        "dragThreshold": 80
+    }
+}
